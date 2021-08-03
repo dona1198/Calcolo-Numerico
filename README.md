@@ -1,4 +1,4 @@
-# Calcolo-Numerico
+# CalcoloNumerico
 Implementazione dei seguenti algoritmi in ambiente Matlab:
 1)  Algoritmo di riduzione a scalini di una matrice A.
 
